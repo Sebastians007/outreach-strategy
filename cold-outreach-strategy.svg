@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1200" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+  <!-- Title -->
+  <text x="700" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    SalesFlo Cold Outreach Strategy
+  </text>
+  <text x="700" y="80" font-family="Arial, sans-serif" font-size="16" fill="#e0e0e0" text-anchor="middle">
+    AI-Powered Email Automation • 15+ Qualified Meetings/Month
+  </text>
+
+  <!-- Stage 1: Lead Database -->
+  <g id="stage1">
+    <rect x="100" y="140" width="280" height="140" rx="15" fill="#ffffff" stroke="#2383E2" stroke-width="3" filter="url(#shadow)"/>
+    <text x="240" y="175" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      📊 LEAD DATABASE
+    </text>
+    <text x="240" y="205" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      3,839 Qualified Prospects
+    </text>
+    <rect x="120" y="220" width="240" height="25" rx="5" fill="#f0f7ff"/>
+    <text x="240" y="238" font-family="Arial, sans-serif" font-size="12" fill="#2383E2" text-anchor="middle">
+      ✓ Marketing & Advertising (75%)
+    </text>
+    <rect x="120" y="250" width="240" height="25" rx="5" fill="#f0f7ff"/>
+    <text x="240" y="268" font-family="Arial, sans-serif" font-size="12" fill="#2383E2" text-anchor="middle">
+      ✓ Management Consulting (24%)
+    </text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M 380 210 L 480 210" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="430" y="200" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">CSV Import</text>
+
+  <!-- Stage 2: Segmentation -->
+  <g id="stage2">
+    <rect x="480" y="140" width="280" height="140" rx="15" fill="#ffffff" stroke="#7C3AED" stroke-width="3" filter="url(#shadow)"/>
+    <text x="620" y="175" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      🎯 SEGMENTATION
+    </text>
+    <text x="620" y="205" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      Industry-Specific Targeting
+    </text>
+    <rect x="500" y="220" width="240" height="25" rx="5" fill="#faf5ff"/>
+    <text x="620" y="238" font-family="Arial, sans-serif" font-size="12" fill="#7C3AED" text-anchor="middle">
+      ✓ Pain Point Identification
+    </text>
+    <rect x="500" y="250" width="240" height="25" rx="5" fill="#faf5ff"/>
+    <text x="620" y="268" font-family="Arial, sans-serif" font-size="12" fill="#7C3AED" text-anchor="middle">
+      ✓ Target Audience Mapping
+    </text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M 760 210 L 860 210" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="810" y="200" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Filter</text>
+
+  <!-- Stage 3: AI Personalization -->
+  <g id="stage3">
+    <rect x="860" y="140" width="280" height="140" rx="15" fill="#ffffff" stroke="#00D26A" stroke-width="3" filter="url(#shadow)"/>
+    <text x="1000" y="175" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      🤖 AI PERSONALIZATION
+    </text>
+    <text x="1000" y="205" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      Groq LLM Processing
+    </text>
+    <rect x="880" y="220" width="240" height="25" rx="5" fill="#f0fff4"/>
+    <text x="1000" y="238" font-family="Arial, sans-serif" font-size="12" fill="#00D26A" text-anchor="middle">
+      ✓ First Name + Company
+    </text>
+    <rect x="880" y="250" width="240" height="25" rx="5" fill="#f0fff4"/>
+    <text x="1000" y="268" font-family="Arial, sans-serif" font-size="12" fill="#00D26A" text-anchor="middle">
+      ✓ Industry-Specific Angles
+    </text>
+  </g>
+
+  <!-- Arrow Down from Stage 3 -->
+  <path d="M 1000 280 L 1000 360" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="1040" y="325" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Generate</text>
+
+  <!-- Stage 4: Email Templates -->
+  <g id="stage4">
+    <rect x="860" y="360" width="280" height="180" rx="15" fill="#ffffff" stroke="#FF6B6B" stroke-width="3" filter="url(#shadow)"/>
+    <text x="1000" y="395" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      📧 EMAIL TEMPLATES
+    </text>
+    <text x="1000" y="425" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      Psychological Triggers
+    </text>
+    <rect x="880" y="440" width="240" height="22" rx="5" fill="#fff5f5"/>
+    <text x="1000" y="456" font-family="Arial, sans-serif" font-size="11" fill="#FF6B6B" text-anchor="middle">
+      ✓ Loss Aversion (slow month)
+    </text>
+    <rect x="880" y="467" width="240" height="22" rx="5" fill="#fff5f5"/>
+    <text x="1000" y="483" font-family="Arial, sans-serif" font-size="11" fill="#FF6B6B" text-anchor="middle">
+      ✓ Social Proof (most companies)
+    </text>
+    <rect x="880" y="494" width="240" height="22" rx="5" fill="#fff5f5"/>
+    <text x="1000" y="510" font-family="Arial, sans-serif" font-size="11" fill="#FF6B6B" text-anchor="middle">
+      ✓ Direct CTA (Let's talk this week)
+    </text>
+  </g>
+
+  <!-- Arrow Down -->
+  <path d="M 1000 540 L 1000 620" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="1040" y="585" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Send</text>
+
+  <!-- Stage 5: Workflow Automation -->
+  <g id="stage5">
+    <rect x="860" y="620" width="280" height="160" rx="15" fill="#ffffff" stroke="#FF9500" stroke-width="3" filter="url(#shadow)"/>
+    <text x="1000" y="655" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      ⚙️ WORKFLOW
+    </text>
+    <text x="1000" y="685" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      4-Step Automation
+    </text>
+    <g transform="translate(880, 700)">
+      <circle cx="15" cy="10" r="8" fill="#FF9500"/>
+      <text x="30" y="15" font-family="Arial, sans-serif" font-size="11" fill="#1a1a1a">1. Fetch Uncontacted</text>
+      <circle cx="15" cy="30" r="8" fill="#FF9500"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="11" fill="#1a1a1a">2. AI Personalize</text>
+      <circle cx="15" cy="50" r="8" fill="#FF9500"/>
+      <text x="30" y="55" font-family="Arial, sans-serif" font-size="11" fill="#1a1a1a">3. Send (Your Domain)</text>
+      <circle cx="15" cy="70" r="8" fill="#FF9500"/>
+      <text x="30" y="75" font-family="Arial, sans-serif" font-size="11" fill="#1a1a1a">4. Update Database</text>
+    </g>
+  </g>
+
+  <!-- Arrow Left from Stage 5 -->
+  <path d="M 860 700 L 760 700" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="810" y="690" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Track</text>
+
+  <!-- Stage 6: Analytics -->
+  <g id="stage6">
+    <rect x="480" y="620" width="280" height="160" rx="15" fill="#ffffff" stroke="#2383E2" stroke-width="3" filter="url(#shadow)"/>
+    <text x="620" y="655" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      📊 ANALYTICS
+    </text>
+    <text x="620" y="685" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      Performance Tracking
+    </text>
+    <rect x="500" y="700" width="110" height="35" rx="5" fill="#e3f2fd"/>
+    <text x="555" y="715" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2383E2" text-anchor="middle">40%+</text>
+    <text x="555" y="728" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Open Rate</text>
+    <rect x="620" y="700" width="110" height="35" rx="5" fill="#e3f2fd"/>
+    <text x="675" y="715" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2383E2" text-anchor="middle">5-10%</text>
+    <text x="675" y="728" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Reply Rate</text>
+    <rect x="500" y="740" width="110" height="35" rx="5" fill="#e3f2fd"/>
+    <text x="555" y="755" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2383E2" text-anchor="middle">1-2%</text>
+    <text x="555" y="768" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Meetings</text>
+    <rect x="620" y="740" width="110" height="35" rx="5" fill="#e3f2fd"/>
+    <text x="675" y="755" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2383E2" text-anchor="middle">47+</text>
+    <text x="675" y="768" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Booked</text>
+  </g>
+
+  <!-- Arrow Left from Stage 6 -->
+  <path d="M 480 700 L 380 700" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="430" y="690" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Optimize</text>
+
+  <!-- Stage 7: Follow-Up -->
+  <g id="stage7">
+    <rect x="100" y="620" width="280" height="160" rx="15" fill="#ffffff" stroke="#7C3AED" stroke-width="3" filter="url(#shadow)"/>
+    <text x="240" y="655" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      🔄 FOLLOW-UP
+    </text>
+    <text x="240" y="685" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">
+      Multi-Touch Sequences
+    </text>
+    <rect x="120" y="700" width="240" height="25" rx="5" fill="#faf5ff"/>
+    <text x="240" y="718" font-family="Arial, sans-serif" font-size="12" fill="#7C3AED" text-anchor="middle">
+      ✓ Day 3: Value Reminder
+    </text>
+    <rect x="120" y="730" width="240" height="25" rx="5" fill="#faf5ff"/>
+    <text x="240" y="748" font-family="Arial, sans-serif" font-size="12" fill="#7C3AED" text-anchor="middle">
+      ✓ Day 7: Case Study
+    </text>
+  </g>
+
+  <!-- Arrow Up from Stage 7 -->
+  <path d="M 240 620 L 240 540 L 380 450" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="8,4"/>
+  <text x="280" y="580" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Re-engage</text>
+
+  <!-- Stage 8: Qualified Meetings -->
+  <g id="stage8">
+    <rect x="480" y="360" width="280" height="180" rx="15" fill="#ffffff" stroke="#00D26A" stroke-width="3" filter="url(#shadow)"/>
+    <text x="620" y="395" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      🎯 QUALIFIED MEETINGS
+    </text>
+    <text x="620" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#00D26A" text-anchor="middle">
+      15+ Booked/Month
+    </text>
+    <rect x="500" y="445" width="240" height="30" rx="8" fill="#f0fff4"/>
+    <text x="620" y="468" font-family="Arial, sans-serif" font-size="13" fill="#00D26A" text-anchor="middle">
+      💰 $180K Pipeline Generated
+    </text>
+    <rect x="500" y="485" width="240" height="25" rx="5" fill="#f0fff4"/>
+    <text x="620" y="503" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">
+      ✓ Pre-Qualified Prospects
+    </text>
+    <rect x="500" y="515" width="240" height="25" rx="5" fill="#f0fff4"/>
+    <text x="620" y="533" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">
+      ✓ Ready-to-Buy Timeline
+    </text>
+  </g>
+
+  <!-- Arrow from Stage 2 to Stage 8 -->
+  <path d="M 620 280 L 620 360" stroke="#ffffff" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="660" y="325" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">Convert</text>
+
+  <!-- Key Differentiators Box -->
+  <g id="differentiators">
+    <rect x="100" y="820" width="1040" height="120" rx="15" fill="rgba(255,255,255,0.95)" stroke="#ffffff" stroke-width="3" filter="url(#shadow)"/>
+    <text x="620" y="855" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+      🏆 KEY DIFFERENTIATORS
+    </text>
+    <g transform="translate(140, 875)">
+      <rect x="0" y="0" width="220" height="50" rx="8" fill="#f0f7ff"/>
+      <text x="110" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2383E2" text-anchor="middle">You Own Everything</text>
+      <text x="110" y="38" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">No agency lock-in</text>
+
+      <rect x="240" y="0" width="220" height="50" rx="8" fill="#faf5ff"/>
+      <text x="350" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#7C3AED" text-anchor="middle">AI-Powered at Scale</text>
+      <text x="350" y="38" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">Groq LLM personalization</text>
+
+      <rect x="480" y="0" width="220" height="50" rx="8" fill="#f0fff4"/>
+      <text x="590" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#00D26A" text-anchor="middle">Your Domain = Trust</text>
+      <text x="590" y="38" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">SMTP from your email</text>
+
+      <rect x="720" y="0" width="220" height="50" rx="8" fill="#fff5f5"/>
+      <text x="830" y="20" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FF6B6B" text-anchor="middle">Proven Psychology</text>
+      <text x="830" y="38" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">7 triggers per email</text>
+    </g>
+  </g>
+
+  <!-- Stats Footer -->
+  <g id="stats">
+    <rect x="100" y="970" width="1040" height="90" rx="15" fill="rgba(26,26,26,0.8)" stroke="#ffffff" stroke-width="2"/>
+    <text x="620" y="1005" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      PERFORMANCE METRICS (Q1 2026)
+    </text>
+    <g transform="translate(200, 1020)">
+      <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#00D26A">117</text>
+      <text x="0" y="38" font-family="Arial, sans-serif" font-size="12" fill="#e0e0e0">Emails Ready</text>
+
+      <text x="200" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#00D26A">3,839</text>
+      <text x="200" y="38" font-family="Arial, sans-serif" font-size="12" fill="#e0e0e0">Leads Analyzed</text>
+
+      <text x="400" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#00D26A">91.7/100</text>
+      <text x="400" y="38" font-family="Arial, sans-serif" font-size="12" fill="#e0e0e0">Copy Score</text>
+
+      <text x="600" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#00D26A">$180K</text>
+      <text x="600" y="38" font-family="Arial, sans-serif" font-size="12" fill="#e0e0e0">Pipeline Value</text>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <text x="700" y="1120" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">
+    SalesFlo Strategy © 2026 • AI-Powered Cold Outreach That Books Meetings
+  </text>
+  <text x="700" y="1145" font-family="Arial, sans-serif" font-size="12" fill="#e0e0e0" text-anchor="middle">
+    Built with Claude Code • Last Updated: January 28, 2026
+  </text>
+
+  <!-- Definitions -->
+  <defs>
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="0" dy="4" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Arrow marker -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#ffffff"/>
+    </marker>
+  </defs>
+</svg>

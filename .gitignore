@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*~
+
+# Logs
+*.log
+
+# Private data
+leads/
+prospects/
+*.csv
