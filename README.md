@@ -20,13 +20,48 @@
 
 ## 🎨 Full Strategy Diagram
 
-<div align="center">
+```mermaid
+graph TB
+    subgraph "STAGE 1-2: DATA PREPARATION"
+        A[📊 LEAD DATABASE<br/>3,839 Qualified Prospects<br/>75% Marketing & Advertising<br/>24% Management Consulting]
+        B[🎯 SEGMENTATION<br/>Industry-Specific Targeting<br/>Pain Point Identification<br/>Target Audience Mapping]
+        A -->|CSV Import| B
+    end
 
-![SalesFlo Cold Outreach Strategy](./cold-outreach-strategy.svg)
+    subgraph "STAGE 3-4: CONTENT CREATION"
+        C[🤖 AI PERSONALIZATION<br/>Groq LLM Processing<br/>First Name + Company<br/>Industry-Specific Angles]
+        D[📧 EMAIL TEMPLATES<br/>7 Psychological Triggers<br/>Loss Aversion + Social Proof<br/>Direct CTA]
+        B -->|Filter & Target| C
+        C -->|Generate| D
+    end
 
-*Click image to view full-size SVG diagram*
+    subgraph "STAGE 5: AUTOMATION"
+        E[⚙️ WORKFLOW<br/>1. Fetch Uncontacted<br/>2. AI Personalize<br/>3. Send via Your Domain<br/>4. Update Database]
+        D -->|Load Template| E
+    end
 
-</div>
+    subgraph "STAGE 6-8: RESULTS & OPTIMIZATION"
+        F[📊 ANALYTICS<br/>40%+ Open Rate<br/>5-10% Reply Rate<br/>1-2% Meeting Rate<br/>47+ Meetings Booked]
+        G[🔄 FOLLOW-UP<br/>Day 3: Value Reminder<br/>Day 7: Case Study<br/>Multi-Touch Sequences]
+        H[🎯 QUALIFIED MEETINGS<br/>15+ Booked/Month<br/>$180K Pipeline<br/>Pre-Qualified Prospects]
+
+        E -->|Track Performance| F
+        F -->|Optimize| G
+        G -.->|Re-engage| B
+        E -->|Convert| H
+    end
+
+    style A fill:#2383E2,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#7C3AED,stroke:#fff,stroke-width:3px,color:#fff
+    style C fill:#00D26A,stroke:#fff,stroke-width:3px,color:#fff
+    style D fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
+    style E fill:#FF9500,stroke:#fff,stroke-width:3px,color:#fff
+    style F fill:#2383E2,stroke:#fff,stroke-width:3px,color:#fff
+    style G fill:#7C3AED,stroke:#fff,stroke-width:3px,color:#fff
+    style H fill:#00D26A,stroke:#fff,stroke-width:3px,color:#fff
+```
+
+**Key Differentiators:** You Own Everything • AI-Powered at Scale • Your Domain = Trust • Proven Psychology
 
 ---
 
